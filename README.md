@@ -10,7 +10,7 @@
 
 ## 📌 About Me  
 🔹 Exploring the world of robotics with ROS 2 and embedded systems.  
-🔹 Interested in developing software for autonomous robots.  
+🔹 Interested in developing software for autonomous mobile robots.  
 🔹 Constantly learning new technologies and frameworks.  
 
 ## 📫 Contact  
