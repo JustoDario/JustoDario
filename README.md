@@ -1,6 +1,6 @@
 # 🚀 Justo Dario Valverde  
 
-🎓 Robotics Engineering Student | Passionate about Programming & Automation  
+🎓 Robotics Engineering Student | Passionate about Robotics
 
 ## 🔧 Technologies & Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
